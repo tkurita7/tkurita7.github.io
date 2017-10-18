@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Chosing a new path"
-date:       2017-10-18 05:57:33 +0000
+date:       2017-10-18 01:57:34 -0400
 permalink:  chosing_a_new_path
 ---
 
